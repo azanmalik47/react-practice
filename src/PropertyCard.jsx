@@ -6,7 +6,6 @@ function PropertyCard({address = "None", rent = 0, bedrooms = 0}) {
             <p>Rent: {rent}</p>
             <p>Bedrooms: {bedrooms}</p>
         </div>
-        
     )
 }
 
